@@ -1,4 +1,4 @@
-# E-Commerce Platform
+# E-Commerce Platform 
 
 ## Overview
 This is a simple Express.js based e-commerce platform with product and user management features.
